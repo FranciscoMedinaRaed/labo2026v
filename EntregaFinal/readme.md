@@ -63,8 +63,6 @@ Cada decisión se tomó midiendo la ganancia en meses con clase conocida (sobre 
 | WF7198 | Semillerío de 100 y curva de semillas | Estable desde unas 20 semillas | `..._v8_semillerio100_7198.ipynb` |
 | WF7199 | Validación a dos meses de distancia | Corte óptimo cerca de 820; meseta de 660 a 1.120 | `..._v9_validacion_2meses_7199.ipynb` |
 
-Los resultados de cada corrida (grids, importancia de variables, `PARAM.yml`, puntajes de Kaggle, curvas y gráficos) están en `experimentos/resultados/`.
-
 **Notas sobre los registros**
 - El notebook `v3_FE` se actualizó entre el WF7192 y el WF7193 (de 3 a 10 semillas por combinación en el grid). La versión del repositorio es la del WF7193. La configuración con la que corrió el WF7192 está en su `PARAM.yml`.
 - Los notebooks experimentales son reanudables y controlan que no se mezclen resultados de configuraciones distintas.
