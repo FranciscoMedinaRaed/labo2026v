@@ -16,19 +16,7 @@ Predicción de los clientes que se dan de baja en **septiembre de 2021 (202109)*
    - `kaggle/KA7198_final_1000.csv` es el archivo entregado. Tiene que ser idéntico a `entrega/KA7198_final_1000.csv`.
    - `prediccion.txt`, `impo.txt` y `PARAM.yml` con toda la configuración.
 
-**Versiones usadas** (ver `sesion/sessionInfo.txt`):
-
-| | Versión |
-|---|---|
-| R | _completar_ |
-| lightgbm | _completar_ |
-| data.table | _completar_ |
-
-Con otra versión de LightGBM el modelo puede salir distinto aun con los mismos datos y semillas.
-
 **Semilla primigenia:** 123457. Las 100 semillas del semillerío se derivan de ella dentro del notebook.
-
----
 
 ## Qué cambia respecto del workflow z719
 
