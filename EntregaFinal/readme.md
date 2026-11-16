@@ -80,9 +80,7 @@ entrega/
   PARAM.yml, impo.txt                           configuración e importancia de variables
 experimentos/
   notebooks/                                    notebooks de las corridas WF7190 a WF7199
-  resultados/                                   resultados de cada corrida
 sesion/
   sessionInfo.txt                               versiones de R y de los paquetes
 ```
 
-No se incluyen el dataset, las predicciones por semilla ni `kaggle.json`.
